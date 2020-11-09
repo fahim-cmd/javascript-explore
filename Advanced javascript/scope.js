@@ -3,8 +3,10 @@ function global (){
     var arnold = 100;
     console.log(arnold);
     function local(){
-        var shakib = 300;
-        console.log(shakib + arnold + tomCruse);
+        let shakib = 300;
+        return console.log(shakib + arnold + tomCruse);
     }
 
 }
+console.log(tomCruse);
+// console.log(shakib + arnold + tomCruse);
