@@ -7,9 +7,9 @@
 // let name ;
 // console.log(name);
 
-function add ( num, num1){
-    let result = num + num1;
-    return
-}
-const sum = add( 12 , 12);
-console.log(sum);
+// function add ( num, num1){
+//     let result = num + num1;
+//     return
+// }
+// const sum = add( 12 , 12);
+// console.log(sum);
